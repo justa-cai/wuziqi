@@ -1,0 +1,18 @@
+pluginManagement {
+    repositories {
+        maven { url 'https://mirrors.huaweicloud.com/repository/maven/' }
+        gradlePluginPortal()
+        google()
+        mavenCentral()
+    }
+}
+dependencyResolutionManagement {
+    repositoriesMode.set(RepositoriesMode.PREFER_SETTINGS)
+    repositories {
+        maven { url 'https://mirrors.huaweicloud.com/repository/maven/' }
+        google()
+        mavenCentral()
+    }
+}
+rootProject.name = "WuZiQi"
+include ':app'

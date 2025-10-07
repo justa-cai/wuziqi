@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">智能五子棋</string>
+    <string name="player_turn">轮到: 玩家 (黑子)</string>
+    <string name="ai_turn">轮到: AI (白子)</string>
+    <string name="game_over">游戏结束</string>
+    <string name="player_wins">你赢了！</string>
+    <string name="ai_wins">AI 赢了！</string>
+    <string name="time_limit">时间: %ds</string>
+    <string name="position_occupied">该位置已有棋子！</string>
+    <string name="undo_button">悔棋</string>
+    <string name="new_game_button">新游戏</string>
+    <string name="settings_button">设置</string>
+    <string name="recommended_size_message">根据屏幕密度推荐的棋盘大小</string>
+    <string name="board_size_restart_message">棋盘大小变更需重启应用生效</string>
+    <string name="no_move_to_undo">没有可悔的棋</string>
+    <string name="cannot_undo_now">当前不能悔棋</string>
+    <string name="new_game_started">新游戏开始</string>
+    <string name="move_undone">已悔棋</string>
+</resources>

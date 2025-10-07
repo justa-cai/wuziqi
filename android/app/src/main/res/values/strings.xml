@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Smart Gomoku</string>
+    <string name="player_turn">Turn: Player (Black)</string>
+    <string name="ai_turn">Turn: AI (White)</string>
+    <string name="game_over">Game Over</string>
+    <string name="player_wins">You Win!</string>
+    <string name="ai_wins">AI Wins!</string>
+    <string name="time_limit">Time: %ds</string>
+    <string name="position_occupied">Position occupied!</string>
+    <string name="undo_button">Undo</string>
+    <string name="new_game_button">New Game</string>
+    <string name="settings_button">Settings</string>
+    <string name="recommended_size_message">Recommended board size based on screen density</string>
+    <string name="board_size_restart_message">Board size change requires app restart to take effect</string>
+    <string name="no_move_to_undo">No move to undo</string>
+    <string name="cannot_undo_now">Cannot undo now</string>
+    <string name="new_game_started">New game started</string>
+    <string name="move_undone">Move undone</string>
+</resources>
